@@ -1,0 +1,27 @@
+.hintrc
+
+# System files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Node modules (if using JS packages)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Compiled files
+*.exe
+*.class
+*.o
+*.out
+
+# Logs and temp
+*.log
+*.tmp
